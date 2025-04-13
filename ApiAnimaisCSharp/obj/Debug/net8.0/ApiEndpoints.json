@@ -1,0 +1,176 @@
+[
+  {
+    "ContainingType": "ApiAnimais.Routes.AnimalRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAnimalRoutes\u003Eb__0_0",
+    "RelativePath": "animais/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "ApiAnimais.Models.AnimalRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiAnimais.Routes.AnimalRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAnimalRoutes\u003Eb__0_1",
+    "RelativePath": "animais/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiAnimais.Routes.AnimalRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAnimalRoutes\u003Eb__0_2",
+    "RelativePath": "animais/{id:guid}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "ApiAnimais.Models.AnimalRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiAnimais.Routes.AnimalRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAnimalRoutes\u003Eb__0_3",
+    "RelativePath": "animais/{id:guid}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiAnimais.Routes.CuidadoRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCuidadoRoutes\u003Eb__0_0",
+    "RelativePath": "cuidados/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "ApiAnimais.Models.CuidadoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiAnimais.Routes.CuidadoRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCuidadoRoutes\u003Eb__0_1",
+    "RelativePath": "cuidados/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiAnimais.Routes.CuidadoRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCuidadoRoutes\u003Eb__0_2",
+    "RelativePath": "cuidados/{id:guid}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "ApiAnimais.Models.CuidadoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiAnimais.Routes.CuidadoRoutes\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCuidadoRoutes\u003Eb__0_3",
+    "RelativePath": "cuidados/{id:guid}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Data\\AnimaisContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\AnimaisContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Routes\\AnimalRoutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Routes\\AnimalRoutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Routes\\CuidadoRoutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Routes\\CuidadoRoutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\CuidadoRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\CuidadoRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\CuidadoModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\CuidadoModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\AnimalRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\AnimalRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\AnimalModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\AnimalModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\AnimalCuidado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\AnimalCuidado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\20250413034047_CascadeDeleteAnimal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250413034047_CascadeDeleteAnimal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\20250413034047_CascadeDeleteAnimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250413034047_CascadeDeleteAnimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\20250413001007_Initial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250413001007_Initial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\20250413001007_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250413001007_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\AnimalContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\AnimalContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:26:05.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CuidadoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\CuidadoRequest.cs",
+              "RelativeDocumentMoniker": "Models\\CuidadoRequest.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\CuidadoRequest.cs",
+              "RelativeToolTip": "Models\\CuidadoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:25:50.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CuidadoModel.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\CuidadoModel.cs",
+              "RelativeDocumentMoniker": "Models\\CuidadoModel.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\CuidadoModel.cs",
+              "RelativeToolTip": "Models\\CuidadoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:25:49.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnimalRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\AnimalRequest.cs",
+              "RelativeDocumentMoniker": "Models\\AnimalRequest.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\AnimalRequest.cs",
+              "RelativeToolTip": "Models\\AnimalRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:25:48.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimalModel.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\AnimalModel.cs",
+              "RelativeDocumentMoniker": "Models\\AnimalModel.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\AnimalModel.cs",
+              "RelativeToolTip": "Models\\AnimalModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:25:47.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250413034047_CascadeDeleteAnimal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\20250413034047_CascadeDeleteAnimal.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250413034047_CascadeDeleteAnimal.Designer.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\20250413034047_CascadeDeleteAnimal.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250413034047_CascadeDeleteAnimal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:25:43.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalRoutes.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Routes\\AnimalRoutes.cs",
+              "RelativeDocumentMoniker": "Routes\\AnimalRoutes.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Routes\\AnimalRoutes.cs",
+              "RelativeToolTip": "Routes\\AnimalRoutes.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T22:31:20.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuidadoRoutes.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Routes\\CuidadoRoutes.cs",
+              "RelativeDocumentMoniker": "Routes\\CuidadoRoutes.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Routes\\CuidadoRoutes.cs",
+              "RelativeToolTip": "Routes\\CuidadoRoutes.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T22:31:38.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimaisContext.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Data\\AnimaisContext.cs",
+              "RelativeDocumentMoniker": "Data\\AnimaisContext.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Data\\AnimaisContext.cs",
+              "RelativeToolTip": "Data\\AnimaisContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:13:25.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250413034047_CascadeDeleteAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\20250413034047_CascadeDeleteAnimal.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250413034047_CascadeDeleteAnimal.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\20250413034047_CascadeDeleteAnimal.cs",
+              "RelativeToolTip": "Migrations\\20250413034047_CascadeDeleteAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:25:42.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250413001007_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\20250413001007_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250413001007_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\20250413001007_Initial.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250413001007_Initial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:25:42.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250413001007_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\20250413001007_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250413001007_Initial.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\20250413001007_Initial.cs",
+              "RelativeToolTip": "Migrations\\20250413001007_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:25:41.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnimalContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\AnimalContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AnimalContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Migrations\\AnimalContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AnimalContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:25:38.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimalCuidado.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\AnimalCuidado.cs",
+              "RelativeDocumentMoniker": "Models\\AnimalCuidado.cs",
+              "ToolTip": "C:\\Users\\dudub\\Desktop\\TesteCiee\\ApiAnimaisCSharp\\Models\\AnimalCuidado.cs",
+              "RelativeToolTip": "Models\\AnimalCuidado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:00:58.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+<div class="background">
+  <div class="container-box">
+    <h1>Gerenciamento de Animais</h1>
+    <div class="top-buttons">
+      <button class="btn" (click)="openAnimalModal()">Cadastrar Animal</button>
+      <button class="btn" (click)="logOut()">LogOut</button>
+    </div>
+    <div class="animal-box">
+      <table>
+        <thead>
+          <tr>
+            <th>Nome</th>
+            <th>Espécie</th>
+            <th>Habitat</th>
+            <th>País de Origem</th>
+            <th>Cuidados</th>
+            <th>Ações</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let animal of animais">
+            <td>{{ animal.nome }}</td>
+            <td>{{ animal.especie }}</td>
+            <td>{{ animal.habitat }}</td>
+            <td>{{ animal.paisOrigem }}</td>
+            <td>
+              <button class="btn" (click)="abrirCuidadosModal(animal)">Ver Cuidados</button>
+            </td>
+            <td>
+              <div class="button-group">
+                <button class="btn" (click)="editarAnimal(animal)">Editar</button>
+                <button class="btn delete" (click)="excluirAnimal(animal)">Excluir</button>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div class="modal" *ngIf="showAnimalModal">
+    <div class="modal-content">
+      <h3>{{ modoEdicao ? 'Editar Animal' : 'Cadastrar Animal' }}</h3>
+      <form (ngSubmit)="cadastrarAnimal()" #animalForm="ngForm">
+        <input type="text" placeholder="Nome" [(ngModel)]="novoAnimal.nome" name="nome" required />
+        <input type="text" placeholder="Descrição" [(ngModel)]="novoAnimal.descricao" name="descricao" />
+        <input type="date" [(ngModel)]="novoAnimal.dataNascimento" name="dataNascimento" required />
+        <input type="text" placeholder="Espécie" [(ngModel)]="novoAnimal.especie" name="especie" required />
+        <input type="text" placeholder="Habitat" [(ngModel)]="novoAnimal.habitat" name="habitat" />
+        <input type="text" placeholder="País de Origem" [(ngModel)]="novoAnimal.paisOrigem" name="paisOrigem" required />
+        <div class="top-buttons">
+          <button class="btn confirm" type="submit" [disabled]="animalForm.invalid">
+            {{ modoEdicao ? 'Atualizar' : 'Salvar' }}
+          </button>
+          <button class="btn cancel" type="button" (click)="closeModals()">Cancelar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div class="modal" *ngIf="showCuidadosModal">
+    <div class="modal-content">
+      <h3>Cuidados de {{ animalComCuidados?.nome }}</h3>
+      <div *ngIf="animalComCuidados?.cuidados?.length > 0; else semCuidados">
+        <div class="cuidado-item" *ngFor="let cuidado of animalComCuidados.cuidados">
+          <strong>{{ cuidado.nome }}</strong> - {{ cuidado.descricao }} ({{ cuidado.frequencia }})
+        </div>
+      </div>
+      <ng-template #semCuidados>
+        <p>Este animal não possui cuidados cadastrados.</p>
+      </ng-template>
+      <div class="top-buttons">
+        <button class="btn cancel" (click)="closeModals()">Fechar</button>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Data",
+    "\\Migrations",
+    "\\Models",
+    "\\Properties",
+    "\\Routes"
+  ],
+  "SelectedNode": "\\Data\\AnimaisContext.cs",
+  "PreviewInSolutionExplorer": false
+}
